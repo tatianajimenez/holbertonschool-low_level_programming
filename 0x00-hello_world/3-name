@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -o $CFILE > cisfon
+gcc -g $CFILE > cisfon
